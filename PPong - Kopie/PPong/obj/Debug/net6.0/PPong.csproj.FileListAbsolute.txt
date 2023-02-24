@@ -1,0 +1,198 @@
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\obj\Debug\net6.0\PPong.csproj.AssemblyReference.cache
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\obj\Debug\net6.0\PPong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\obj\Debug\net6.0\PPong.AssemblyInfoInputs.cache
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\obj\Debug\net6.0\PPong.AssemblyInfo.cs
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\obj\Debug\net6.0\PPong.csproj.CoreCompileInputs.cache
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\bin\Debug\net6.0\libFLAC-8.dll
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\bin\Debug\net6.0\libjpeg-9.dll
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\bin\Debug\net6.0\libmodplug-1.dll
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\bin\Debug\net6.0\libmpg123-0.dll
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\bin\Debug\net6.0\libogg-0.dll
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\bin\Debug\net6.0\libopus-0.dll
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\bin\Debug\net6.0\libopusfile-0.dll
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\bin\Debug\net6.0\libpng16-16.dll
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\bin\Debug\net6.0\libtiff-5.dll
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\bin\Debug\net6.0\libvorbis-0.dll
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\bin\Debug\net6.0\libwebp-7.dll
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\bin\Debug\net6.0\SDL2.dll
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\bin\Debug\net6.0\SDL2_image.dll
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\bin\Debug\net6.0\SDL2_mixer.dll
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\bin\Debug\net6.0\SDL2_ttf.dll
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\bin\Debug\net6.0\zlib1.dll
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\bin\Debug\net6.0\PPong.exe
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\bin\Debug\net6.0\PPong.deps.json
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\bin\Debug\net6.0\PPong.runtimeconfig.json
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\bin\Debug\net6.0\PPong.dll
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\bin\Debug\net6.0\PPong.pdb
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\bin\Debug\net6.0\Sayers.SDL2.Core.dll
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\obj\Debug\net6.0\PPong.csproj.CopyComplete
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\obj\Debug\net6.0\PPong.dll
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\obj\Debug\net6.0\refint\PPong.dll
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\obj\Debug\net6.0\PPong.pdb
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\obj\Debug\net6.0\PPong.genruntimeconfig.cache
+D:\Muaaz\Studim\Semester 3\c#\unserTest\PPong\PPong\obj\Debug\net6.0\ref\PPong.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\libFLAC-8.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\libjpeg-9.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\libmodplug-1.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\libmpg123-0.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\libogg-0.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\libopus-0.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\libopusfile-0.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\libpng16-16.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\libtiff-5.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\libvorbis-0.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\libwebp-7.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\SDL2.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\SDL2_image.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\SDL2_mixer.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\SDL2_ttf.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\zlib1.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\PPong.exe
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\PPong.deps.json
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\PPong.runtimeconfig.json
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\PPong.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\PPong.pdb
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\Sayers.SDL2.Core.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\obj\Debug\net6.0\PPong.csproj.AssemblyReference.cache
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\obj\Debug\net6.0\PPong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\obj\Debug\net6.0\PPong.AssemblyInfoInputs.cache
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\obj\Debug\net6.0\PPong.AssemblyInfo.cs
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\obj\Debug\net6.0\PPong.csproj.CoreCompileInputs.cache
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\obj\Debug\net6.0\PPong.csproj.CopyComplete
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\obj\Debug\net6.0\PPong.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\obj\Debug\net6.0\refint\PPong.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\obj\Debug\net6.0\PPong.pdb
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\obj\Debug\net6.0\PPong.genruntimeconfig.cache
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_2\PPong\PPong\obj\Debug\net6.0\ref\PPong.dll
+D:\One\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\libFLAC-8.dll
+D:\One\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\libjpeg-9.dll
+D:\One\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\libmodplug-1.dll
+D:\One\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\libmpg123-0.dll
+D:\One\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\libogg-0.dll
+D:\One\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\libopus-0.dll
+D:\One\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\libopusfile-0.dll
+D:\One\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\libpng16-16.dll
+D:\One\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\libtiff-5.dll
+D:\One\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\libvorbis-0.dll
+D:\One\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\libwebp-7.dll
+D:\One\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\SDL2.dll
+D:\One\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\SDL2_image.dll
+D:\One\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\SDL2_mixer.dll
+D:\One\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\SDL2_ttf.dll
+D:\One\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\zlib1.dll
+D:\One\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\PPong.exe
+D:\One\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\PPong.deps.json
+D:\One\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\PPong.runtimeconfig.json
+D:\One\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\PPong.dll
+D:\One\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\PPong.pdb
+D:\One\Desktop\PPong_2\PPong\PPong\bin\Debug\net6.0\Sayers.SDL2.Core.dll
+D:\One\Desktop\PPong_2\PPong\PPong\obj\Debug\net6.0\PPong.csproj.AssemblyReference.cache
+D:\One\Desktop\PPong_2\PPong\PPong\obj\Debug\net6.0\PPong.GeneratedMSBuildEditorConfig.editorconfig
+D:\One\Desktop\PPong_2\PPong\PPong\obj\Debug\net6.0\PPong.AssemblyInfoInputs.cache
+D:\One\Desktop\PPong_2\PPong\PPong\obj\Debug\net6.0\PPong.AssemblyInfo.cs
+D:\One\Desktop\PPong_2\PPong\PPong\obj\Debug\net6.0\PPong.csproj.CoreCompileInputs.cache
+D:\One\Desktop\PPong_2\PPong\PPong\obj\Debug\net6.0\PPong.csproj.CopyComplete
+D:\One\Desktop\PPong_2\PPong\PPong\obj\Debug\net6.0\PPong.dll
+D:\One\Desktop\PPong_2\PPong\PPong\obj\Debug\net6.0\refint\PPong.dll
+D:\One\Desktop\PPong_2\PPong\PPong\obj\Debug\net6.0\PPong.pdb
+D:\One\Desktop\PPong_2\PPong\PPong\obj\Debug\net6.0\PPong.genruntimeconfig.cache
+D:\One\Desktop\PPong_2\PPong\PPong\obj\Debug\net6.0\ref\PPong.dll
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\bin\Debug\net6.0\libFLAC-8.dll
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\bin\Debug\net6.0\libjpeg-9.dll
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\bin\Debug\net6.0\libmodplug-1.dll
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\bin\Debug\net6.0\libmpg123-0.dll
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\bin\Debug\net6.0\libogg-0.dll
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\bin\Debug\net6.0\libopus-0.dll
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\bin\Debug\net6.0\libopusfile-0.dll
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\bin\Debug\net6.0\libpng16-16.dll
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\bin\Debug\net6.0\libtiff-5.dll
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\bin\Debug\net6.0\libvorbis-0.dll
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\bin\Debug\net6.0\libwebp-7.dll
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\bin\Debug\net6.0\SDL2.dll
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\bin\Debug\net6.0\SDL2_image.dll
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\bin\Debug\net6.0\SDL2_mixer.dll
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\bin\Debug\net6.0\SDL2_ttf.dll
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\bin\Debug\net6.0\zlib1.dll
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\bin\Debug\net6.0\PPong.exe
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\bin\Debug\net6.0\PPong.deps.json
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\bin\Debug\net6.0\PPong.runtimeconfig.json
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\bin\Debug\net6.0\PPong.dll
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\bin\Debug\net6.0\PPong.pdb
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\bin\Debug\net6.0\Sayers.SDL2.Core.dll
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.csproj.AssemblyReference.cache
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.GeneratedMSBuildEditorConfig.editorconfig
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.AssemblyInfoInputs.cache
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.AssemblyInfo.cs
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.csproj.CoreCompileInputs.cache
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.csproj.CopyComplete
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.dll
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\obj\Debug\net6.0\refint\PPong.dll
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.pdb
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.genruntimeconfig.cache
+D:\One\Desktop\PPong_2\PPong\PPong - Kopie\PPong\obj\Debug\net6.0\ref\PPong.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\bin\Debug\net6.0\libFLAC-8.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\bin\Debug\net6.0\libjpeg-9.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\bin\Debug\net6.0\libmodplug-1.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\bin\Debug\net6.0\libmpg123-0.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\bin\Debug\net6.0\libogg-0.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\bin\Debug\net6.0\libopus-0.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\bin\Debug\net6.0\libopusfile-0.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\bin\Debug\net6.0\libpng16-16.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\bin\Debug\net6.0\libtiff-5.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\bin\Debug\net6.0\libvorbis-0.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\bin\Debug\net6.0\libwebp-7.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\bin\Debug\net6.0\SDL2.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\bin\Debug\net6.0\SDL2_image.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\bin\Debug\net6.0\SDL2_mixer.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\bin\Debug\net6.0\SDL2_ttf.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\bin\Debug\net6.0\zlib1.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\bin\Debug\net6.0\PPong.exe
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\bin\Debug\net6.0\PPong.deps.json
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\bin\Debug\net6.0\PPong.runtimeconfig.json
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\bin\Debug\net6.0\PPong.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\bin\Debug\net6.0\PPong.pdb
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\bin\Debug\net6.0\Sayers.SDL2.Core.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.csproj.AssemblyReference.cache
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.AssemblyInfoInputs.cache
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.AssemblyInfo.cs
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.csproj.CoreCompileInputs.cache
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.csproj.CopyComplete
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\obj\Debug\net6.0\refint\PPong.dll
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.pdb
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.genruntimeconfig.cache
+C:\Users\bdeir\OneDrive\drive\Desktop\PPong_-_Kopie\PPong - Kopie\PPong\obj\Debug\net6.0\ref\PPong.dll
+D:\One\Desktop\Monster\PPong - Kopie\PPong\bin\Debug\net6.0\libFLAC-8.dll
+D:\One\Desktop\Monster\PPong - Kopie\PPong\bin\Debug\net6.0\libjpeg-9.dll
+D:\One\Desktop\Monster\PPong - Kopie\PPong\bin\Debug\net6.0\libmodplug-1.dll
+D:\One\Desktop\Monster\PPong - Kopie\PPong\bin\Debug\net6.0\libmpg123-0.dll
+D:\One\Desktop\Monster\PPong - Kopie\PPong\bin\Debug\net6.0\libogg-0.dll
+D:\One\Desktop\Monster\PPong - Kopie\PPong\bin\Debug\net6.0\libopus-0.dll
+D:\One\Desktop\Monster\PPong - Kopie\PPong\bin\Debug\net6.0\libopusfile-0.dll
+D:\One\Desktop\Monster\PPong - Kopie\PPong\bin\Debug\net6.0\libpng16-16.dll
+D:\One\Desktop\Monster\PPong - Kopie\PPong\bin\Debug\net6.0\libtiff-5.dll
+D:\One\Desktop\Monster\PPong - Kopie\PPong\bin\Debug\net6.0\libvorbis-0.dll
+D:\One\Desktop\Monster\PPong - Kopie\PPong\bin\Debug\net6.0\libwebp-7.dll
+D:\One\Desktop\Monster\PPong - Kopie\PPong\bin\Debug\net6.0\SDL2.dll
+D:\One\Desktop\Monster\PPong - Kopie\PPong\bin\Debug\net6.0\SDL2_image.dll
+D:\One\Desktop\Monster\PPong - Kopie\PPong\bin\Debug\net6.0\SDL2_mixer.dll
+D:\One\Desktop\Monster\PPong - Kopie\PPong\bin\Debug\net6.0\SDL2_ttf.dll
+D:\One\Desktop\Monster\PPong - Kopie\PPong\bin\Debug\net6.0\zlib1.dll
+D:\One\Desktop\Monster\PPong - Kopie\PPong\bin\Debug\net6.0\PPong.exe
+D:\One\Desktop\Monster\PPong - Kopie\PPong\bin\Debug\net6.0\PPong.deps.json
+D:\One\Desktop\Monster\PPong - Kopie\PPong\bin\Debug\net6.0\PPong.runtimeconfig.json
+D:\One\Desktop\Monster\PPong - Kopie\PPong\bin\Debug\net6.0\PPong.dll
+D:\One\Desktop\Monster\PPong - Kopie\PPong\bin\Debug\net6.0\PPong.pdb
+D:\One\Desktop\Monster\PPong - Kopie\PPong\bin\Debug\net6.0\Sayers.SDL2.Core.dll
+D:\One\Desktop\Monster\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.csproj.AssemblyReference.cache
+D:\One\Desktop\Monster\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.GeneratedMSBuildEditorConfig.editorconfig
+D:\One\Desktop\Monster\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.AssemblyInfoInputs.cache
+D:\One\Desktop\Monster\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.AssemblyInfo.cs
+D:\One\Desktop\Monster\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.csproj.CoreCompileInputs.cache
+D:\One\Desktop\Monster\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.csproj.CopyComplete
+D:\One\Desktop\Monster\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.dll
+D:\One\Desktop\Monster\PPong - Kopie\PPong\obj\Debug\net6.0\refint\PPong.dll
+D:\One\Desktop\Monster\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.pdb
+D:\One\Desktop\Monster\PPong - Kopie\PPong\obj\Debug\net6.0\PPong.genruntimeconfig.cache
+D:\One\Desktop\Monster\PPong - Kopie\PPong\obj\Debug\net6.0\ref\PPong.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lsPI4N4bl9e4kEWPAiC8d54nxvSbFOydhh51g/9J2JmZK+tq5utIhCi4AFigFzsQyRZXeKMBP+NSpTGEuILgdQ==",
+  "success": true,
+  "projectFilePath": "D:\\One\\Desktop\\Monster\\PPong - Kopie\\PPong\\Monster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mouaz\\.nuget\\packages\\sayers.sdl2.core\\1.0.11\\sayers.sdl2.core.1.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
